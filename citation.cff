@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Projeto controle de estoque
+authors:
+  - family-names:  Alves Oliveira
+    given-names: Gustavo 
+  - family-names:  Carlos da Costa Júnior
+    given-names: José 
+  - family-names:  Bernardino Ribeiro Filho
+    given-names: Jefferson
+  - family-names: de Miranda Junior
+    given-names: Álvaro 
+  - family-names: Guilherme da Fonseca Alves
+    given-names: Leonardo 
+  - family-names: Vinícius
+    given-names: Marcos 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: Nathália
+keywords:
+  - Controle de estoque
+  - produtos
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t7-grupo_5_projeto_controle_estoque
+version: 1.0.0
+date-released: 2022-06-25
